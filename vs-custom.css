@@ -1,3 +1,4 @@
-.test {
-  color: white;
+.monaco-workbench .part.editor>.content .editor-group-container.active>.title .tabs-container>.tab.active {
+    color: var(--vscode-tab-activeForeground);
+    border-bottom: 4px solid #B392F0 !important;
 }
